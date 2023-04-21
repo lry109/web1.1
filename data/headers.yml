@@ -1,0 +1,25 @@
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+
+- icon: fas fa-quote-left
+
+- item: 墙裂推荐
+  icon: fa fa-won-sign
+  link: https://91ikun.com
+
+- icon: fas fa-quote-right
+
+
+ 
+
+## - item: 配置
+##   icon: fa fa-cog
+##   link: ""
+##   list:
+##     - name: 源码
+##       url: "#"
+##     - name: 图标
+##       url: "#"
+## 

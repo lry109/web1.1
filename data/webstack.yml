@@ -1,0 +1,262 @@
+---
+
+- taxonomy: 墙裂推荐
+  icon: far fa-star
+  links: 
+    - title: 冲破这座墙
+      logo: ""
+      url: https://91ikun.com
+      qrcode: assets/images/logos/qrcode.jpg
+      description: 🐔v🐔p🐔n
+
+
+- taxonomy: 软件下载
+  icon: far fa-smile
+  list:
+    - term: 社交软件
+      links:
+        - title: INS
+          logo: ncbi.jpg
+          url: https://www.ncbi.nlm.nih.gov/
+          description: National Center for Biotechnology Information.
+
+        - title: TWiter
+          logo: bioconda.jpg
+          url: https://anaconda.org/bioconda/
+          description: "Bioconda :: Anaconda.org."
+
+    - term: 视频软件
+      links:
+        - title: TIKTOK
+          logo: ncbi.jpg
+          url: https://www.ncbi.nlm.nih.gov/
+          description: National Center for Biotechnology Information.
+
+        - title: YOUTUBE
+          logo: bioconda.jpg
+          url: https://anaconda.org/bioconda/
+          description: "Bioconda :: Anaconda.org."
+
+- taxonomy: 大厂方案整合
+  icon: far fa-meh
+  list:
+    - term: 方案整合
+      links:
+        - title: 语雀
+          logo: 语雀.jpg
+          url: https://www.yuque.com/
+          description: 专业的云端知识库。
+
+        - title: 站酷
+          logo: 站酷.png
+          url: https://www.zcool.com.cn/
+          description: 设计创新。
+
+
+
+- taxonomy: AI绘图
+  icon: far fa-frown
+  list:
+    - term: AI绘图
+      links:
+        - title: 语雀
+          logo: 语雀.jpg
+          url: https://www.yuque.com/
+          description: 专业的云端知识库。
+
+        - title: 站酷
+          logo: 开源中国.jpg
+          url: https://www.zcool.com.cn/
+          description: 设计创新。                 
+
+- taxonomy: 云服务器
+  icon: fas fa-meh
+  list:
+    - term: 云服务器
+      links:
+        - title: 阿里云
+          logo: 阿里云.jpg
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
+        - title: 腾讯云
+          logo: 腾讯云.jpg
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来。
+        - title: 华为云
+          logo: 华为云.png
+          url: https://www.huaweicloud.com/
+          description: 提供云计算服务+智能，见未来-华为云。
+        - title: 云筏科技
+          logo: ''
+          url: https://my.cloudraft.cn/
+          description: 云筏 - 科研云。
+        - title: 极云普惠云电脑
+          logo: 极云普惠云电脑.png
+          url: https://www.ji-cloud.cn/
+          description: 云电脑-云游戏-手机变电脑软件。
+        - title: 青椒云
+          logo: 青椒云.jpg
+          url: https://www.qingjiaocloud.com/
+          description: 云桌面,一站式云电脑服务平台。
+        
+- taxonomy: 素材资源
+  icon: fas fa-frown
+  list:
+    - term: 网盘资源
+      links:
+        - title: 百度网盘
+          logo: 百度网盘.jpg
+          url: http://pan.baidu.com/
+          description: https://pan.baidu.com/.
+        - title: 阿里云盘
+          logo: 阿里云盘.png
+          url: https://www.aliyundrive.com/
+          description: 阿里云盘，你的数字世界。
+        - title: 天翼云盘
+          logo: 天翼云盘.jpg
+          url: https://cloud.189.cn/
+          description: 家庭云|网盘|文件备份|资源分享。
+        - title: 坚果云
+          logo: 坚果云.png
+          usrl: https://www.jianguoyun.com/
+          description: 坚果云官网。
+    - term: 图标素材
+      links:
+        - title: Iconfinder
+          logo: Iconfinder.png
+          url: https://www.iconfinder.com
+          description: 2,100,000+ free and premium vector icons.
+        - title: iconfont
+          logo: iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库。
+        - title: iconmonstr
+          logo: iconmonstr.png
+          url: https://iconmonstr.com/
+          description: Free simple icons for your next project.
+        - title: Icon Archive
+          logo: iconarchive.png
+          url: http://www.iconarchive.com/
+          description: Search 590,912 free icons.
+        - title: FindIcons
+          logo: FindIcons.png
+          url: https://findicons.com/
+          description: Search through 300,000 free icons.
+        - title: IcoMoonApp
+          logo: IcoMoonApp.png
+          url: https://icomoon.io/app/
+          description: Icon Font, SVG, PDF &amp; PNG Generator.
+        - title: easyicon
+          logo: easyicon.png
+          url: http://www.easyicon.net/
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
+        - title: flaticon
+          logo: flaticon.png
+          url: https://www.flaticon.com/
+          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
+        - title: UICloud
+          logo: UICloud.png
+          url: http://ui-cloud.com/
+          description: The largest user interface design database in the world.
+        - title: Material icons
+          logo: Materialicons.png
+          url: https://material.io/icons/
+          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
+        - title: Font Awesome Icon
+          logo: fontawesomeicon.png
+          url: https://fontawesome.com/icons/
+          description: The complete set of 675 icons in Font Awesome.
+        - title: ion icons
+          logo: ionicons.png
+          url: http://ionicons.com/
+          description: The premium icon font for Ionic Framework.
+        - title: Simpleline Icons
+          logo: simplelineicons.png
+          url: http://simplelineicons.com/
+          description: Simple line Icons pack.
+
+    - term: 平面素材
+      links:
+        - title: freepik
+          logo: freepik.png
+          url: https://www.freepik.com/
+          description: More than a million free vectors, PSD, photos and free icons.
+        - title: wallhalla
+          logo: wallhalla.png
+          url: https://wallhalla.com/
+          description: Find awesome high quality wallpapers for desktop and mobile in one place.
+        - title: 365PSD
+          logo: 365PSD.png
+          url: https://365psd.com/
+          description: Free PSD &amp; Graphics, Illustrations.
+        - title: Medialoot
+          logo: Medialoot.png
+          url: https://medialoot.com/
+          description: Free &amp; Premium Design Resources &mdash; Medialoot.
+        - title: 千图网
+          logo: qiantu.png
+          url: http://www.58pic.com/
+          description: 专注免费设计素材下载的网站.
+        - title: 千库网
+          logo: qianku.png
+          url: http://588ku.com/
+          description: 免费 png 图片背景素材下载。
+        - title: 我图网
+          logo: wotu.png
+          url: http://www.ooopic.com/
+          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
+        - title: 90 设计
+          logo: 90sheji.png
+          url: http://90sheji.com/
+          description: 电商设计（淘宝美工）千图免费淘宝素材库。
+        - title: 昵图网
+          logo: nipic.png
+          url: http://www.nipic.com/
+          description: 原创素材共享平台。
+        - title: 懒人图库
+          logo: lanrentuku.png
+          url: http://www.lanrentuku.com/
+          description: 懒人图库专注于提供网页素材下载。
+        - title: 素材搜索
+          logo: sousucai.png
+          url: http://so.ui001.com/
+          description: 设计素材搜索聚合。
+        - title: PS 饭团网
+          logo: psefan.png
+          url: http://psefan.com/
+          description: 不一样的设计素材库！让自己的设计与众不同！
+        - title: 素材中国
+          logo: sccnn.png
+          url: http://www.sccnn.com/
+          description: 免费素材共享平台。   
+    - term: PPT资源
+      links:
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: officeplus.png
+          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: 优品PPT
+          url: http://www.ypppt.com/
+          logo: ypppt.png
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
+        - title: PPT+
+          url: http://www.pptplus.cn/
+          logo: pptplus.png
+          description: PPT加直播、录制和分享—PPT+语音内容分享平台。
+        - title: PPTMind
+          url: http://www.pptmind.com/
+          logo: pptmind.png
+          description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
+        - title: tretars
+          url: http://www.tretars.com/ppt-templates
+          logo: tretars.png
+          description: The best free Mockups from the Web.
+        - title: 5百丁
+          url: http://ppt.500d.me/
+          logo: 500d.png
+          description: 中国领先的PPT模板共享平台。
+
+- taxonomy: 素材资源
+  icon: fas fa-poo
+  list:
+        

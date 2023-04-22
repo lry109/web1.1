@@ -3,74 +3,186 @@
 - taxonomy: 墙裂推荐
   icon: far fa-star
   links: 
-    - title: 冲破这座墙
-      logo: ""
+    - title: 便宜稳定便捷
+      logo: ji.png
       url: https://91ikun.com
-      qrcode: assets/images/logos/qrcode.jpg
-      description: 🐔v🐔p🐔n
+      description: 🐔V🐔P🐔N
+
+    - title: 不限设备数量
+      logo: ji.png
+      url: https://91ikun.com  
+      description: 🐔V🐔P🐔N
+##      qrcode: assets/images/logos/qrcode.jpg
 
 
 - taxonomy: 软件下载
   icon: far fa-smile
   list:
-    - term: 社交软件
+    - term: 热门软件
       links:
-        - title: INS
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
+        - title: Instagram
+          logo: www.instagram.com.png
+          url: https://91ikun.com
+          description: 各系统安装包登陆后下载
 
-        - title: TWiter
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
+        - title: TWitter
+          logo: twitter.com.png
+          url: https://91ikun.com
+          description: 各系统安装包登陆后下载
 
-    - term: 视频软件
-      links:
-        - title: TIKTOK
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
+        - title: Tiktok
+          logo: www.tiktok.com.png
+          url: https://91ikun.com
+          description: 各系统安装包登陆后下载
 
-        - title: YOUTUBE
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
+        - title: Youtube
+          logo: www.youtube.com.png
+          url: https://91ikun.com
+          description: 各系统安装包登陆后下载
 
-- taxonomy: 大厂方案整合
+
+
+- taxonomy: AI工具
   icon: far fa-meh
-  list:
-    - term: 方案整合
-      links:
-        - title: 语雀
-          logo: 语雀.jpg
-          url: https://www.yuque.com/
-          description: 专业的云端知识库。
-
-        - title: 站酷
-          logo: 站酷.png
-          url: https://www.zcool.com.cn/
-          description: 设计创新。
-
-
-
-- taxonomy: AI绘图
-  icon: far fa-frown
   list:
     - term: AI绘图
       links:
-        - title: 语雀
-          logo: 语雀.jpg
-          url: https://www.yuque.com/
-          description: 专业的云端知识库。
+        - title: GRAVITI Diffus
+          logo: www.diffus.graviti.com.png
+          url: https://www.diffus.graviti.com
+          description: 一款可以在线使用的Stable Diffusion WebUI产品，Stable Diffusion WebUI在线服务，无需GPU与代码技能，无需部署，内置模型，开箱即用
 
-        - title: 站酷
-          logo: 开源中国.jpg
-          url: https://www.zcool.com.cn/
-          description: 设计创新。                 
+        - title: 无界AI
+          logo: www.wujieai.com.png
+          url: https://www.wujieai.com
+          description: 国风、国潮、国漫AI绘画内容社区
+
+
+        - title: 文心一格
+          logo: yige.baidu.com.png
+          url: https://yige.baidu.com
+          description: 百度的做图AI
+
+        - title: Niji Journey
+          logo: nijijourney.com.png
+          url: https://nijijourney.com
+          description: Midjourney和Spellbrush合作打造的二次元生成器       
+
+        - title: MidJourmey官方网站
+          logo: www.midjourney.com.png
+          url: https://www.midjourney.com
+          description: 基于稳定扩散的人工智能艺术生成器。他们的网站将其描述为“一个独立的研究实验室，探索新的思想媒介，扩展人类物种的想象力。”  
+
+        - title: Ai-Art
+          logo: www.ai-art.com.cn.png
+          url: https://www.ai-art.com.cn
+          description: 这里收集了全球优秀设计师使用Midjourney等Ai工具生成的作品，一起看看他们用的“咒语”吧。
+
+        - title: Modelscope
+          logo: www.modelscope.cn.png
+          url: https://www.modelscope.cn
+          description: 达摩院AI社区
+
+        - title: Civitai
+          logo: civitai.com.png
+          url: https://civitai.com/
+          description: C站，Stable Diffusion模型社区       
+
+        - title: Phygital+
+          logo: phygital.plus.png
+          url: https://phygital.plus
+          description: AI可视化设计，超多图片处理方式！         
+
+        - title: Magic Studio
+          logo: magicstudio.com.png
+          url: https://magicstudio.com
+          description: 用 AI 图像编辑工具在几秒钟内创建惊人的视觉效果。删除不需要的东西，切换背景或放大你的图片。  
+
+    - term: AI视频
+      links:          
+        - title: Runway
+          logo: runwayml.com.png
+          url: https://runwayml.com
+          description: 免费制作火爆抖音的瞬息全宇宙
+
+        - title: 一帧秒创
+          logo: aigc.yizhentv.com.png
+          url: https://aigc.yizhentv.com
+          description: 一键图文转视频         
+  
+        - title: Re;memory
+          logo: rememory.deepbrain.io.png
+          url: https://rememory.deepbrain.io
+          description: 通过恢复你所爱的人的容貌和声音，你的记忆和情感将永远保存下来   
+
+        - title: ANIMATED DRAWINGS
+          logo: sketch.metademolab.com.png
+          url: https://sketch.metademolab.com
+          description: 可以通过传入2D人物图片，生成固定动作的动画，通过动画角色四处移动，让孩子们的绘画栩栩如生！
+
+        - title: Colossyan
+          logo: www.colossyan.com.png
+          url: https://www.colossyan.com
+          description: 专业的视频生成AI，可在几分钟内准备好 70+ 种语言的视频
+
+    - term: AI音频
+      links: 
+        - title: MusicLM
+          logo: examples.png
+          url: https://google-research.github.io/seanet/musiclm/examples
+          description: 谷歌的AI作曲工具
+
+        - title: 网易天音
+          logo: tianyin.music.163.com.png
+          url: https://tianyin.music.163.com
+          description: 自动编曲
+
+        - title: PLAUD AI
+          logo: transcribe.png
+          url: https://plaud.ai/transcribe
+          description: 利用GPT3.5和Whisper实现语音转文本，并通过GPT3.5生成内容总结
+
+        - title: Papercup
+          logo: www.papercup.com.png
+          url: https://www.papercup.com
+          description: 用AI制作配音
+
+        - title: Munch
+          logo: www.getmunch.com.png
+          url: https://www.getmunch.com
+          description: 智能一键爬取并剪辑视频至tiktok
+
+    - term: AI文章
+      links: 
+        - title: Article Fiesta
+          logo: articlefiesta.com.png
+          url: https://articlefiesta.com
+          description: AI 作家，可帮助您为您的网站或博客创建文章。您只需要提供关键字，剩下的交给我们。我们的人工智能机器人将创建长篇、支持 SEO 的文章，准备立即在您的网站上发布。
+
+        - title: MagickPen
+          logo: magickpen.com.png
+          url: https://magickpen.com
+          description: 在线Ai智能写作助手，可以轻易地一键生成ideas、博客、计划、报告、简历、招聘启事、故事、口号、笑话，甚至歌词 ，还可以用于翻译、语法检测和代码修复
+
+        - title: HoppyCopy
+          logo: www.hoppycopy.co.png
+          url: https://www.hoppycopy.co
+          description: 编写精彩的长篇内容，使用向导立即将混乱的笔记转换为有用的大纲
+
+        - title: Notion AI
+          logo: www.notion.so.png
+          url: https://www.notion.so
+          description: Notion开发的专注笔记的AI
+
+        - title: 一览运营宝- AI编剧
+          logo: yyb.yilan.tv.png
+          url: https://yyb.yilan.tv
+          description: AI编剧：创意生成+情节生成+脚本生成，AI自动帮你搞定剧情！
+
+
 
 - taxonomy: 云服务器
-  icon: fas fa-meh
+  icon: far fa-frown
   list:
     - term: 云服务器
       links:
@@ -86,40 +198,38 @@
           logo: 华为云.png
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: ''
-          url: https://my.cloudraft.cn/
-          description: 云筏 - 科研云。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
+        - title: Autodl
+          logo: www.autodl.com.png
+          url: https://www.autodl.com
+          description: 超便宜的GPU算力平台
+        - title: AWS
+          logo: aws.amazon.com.png
+          url: https://aws.amazon.com
+          description: Amazon Web Services（AWS）是全球最全面、应用最广泛的云，从全球数据中心提供超过 200 项功能齐全的服务。
+
         
+
+
+- taxonomy: 大厂方案整合
+  icon: fas fa-meh
+  list:
+    - term: 方案整合
+      links:
+        - title: 语雀
+          logo: 语雀.jpg
+          url: https://www.yuque.com/
+          description: 专业的云端知识库。
+
+        - title: 站酷
+          logo: zcool.png
+          url: https://www.zcool.com.cn/
+          description: 设计创新。
+
+
+
 - taxonomy: 素材资源
   icon: fas fa-frown
   list:
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
     - term: 图标素材
       links:
         - title: Iconfinder
@@ -256,7 +366,4 @@
           logo: 500d.png
           description: 中国领先的PPT模板共享平台。
 
-- taxonomy: 素材资源
-  icon: fas fa-poo
-  list:
         

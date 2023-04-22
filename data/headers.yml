@@ -1,15 +1,28 @@
-- item: 首页
-  icon: fa fa-home
+- icon: fa fa-home
   link: "./"
 
 
-- icon: fas fa-quote-left
+- icon: fab fa-tiktok
+  item: tiktok
+  link: https://www.tiktok.com
+
+
+- icon: fab fa-twitter 
+  link: https://twitter.com
+  item: twitter 
 
 - item: 墙裂推荐
-  icon: fa fa-won-sign
+  icon: fa fa-won-sign fa-spin
   link: https://91ikun.com
 
-- icon: fas fa-quote-right
+- icon: fab fa-instagram-square
+  link: https://www.instagram.com
+  item: instagram 
+
+
+- icon: fab fa-youtube
+  link: https://www.youtube.com
+  item: youtube
 
 
  

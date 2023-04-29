@@ -22,25 +22,28 @@
       links:
         - title: Instagram
           logo: www.instagram.com.png
-          url: https://91ikun.com
-          description: 各系统安装包登陆后下载
+          url: http://rtvosbr5p.bkt.clouddn.com/Instagram.zip
+          description: Android 7.0+ 压缩包防检测 
 
         - title: TWitter
           logo: twitter.com.png
-          url: https://91ikun.com
-          description: 各系统安装包登陆后下载
+          url: http://rtvosbr5p.bkt.clouddn.com/Twitter.zip
+          description: Android 6.0+ 压缩包防检测 
 
         - title: Tiktok
           logo: www.tiktok.com.png
-          url: https://91ikun.com
-          description: 各系统安装包登陆后下载
+          url: http://rtvosbr5p.bkt.clouddn.com/TikTok.zip
+          description: Android 5.0+ 压缩包防检测 
 
         - title: Youtube
           logo: www.youtube.com.png
-          url: https://91ikun.com
-          description: 各系统安装包登陆后下载
+          url: http://rtvosbr5p.bkt.clouddn.com/YouTube.zip
+          description: Android 8.0+ 压缩包防检测 
 
-
+        - title: Facebook
+          logo: www.facebook.com.png
+          url: http://rtvosbr5p.bkt.clouddn.com/Facebook.zip
+          description: Android 6.0+ 压缩包防检测 
 
 - taxonomy: AI工具
   icon: far fa-meh

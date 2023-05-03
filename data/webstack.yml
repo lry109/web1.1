@@ -369,4 +369,14 @@
           logo: 500d.png
           description: 中国领先的PPT模板共享平台。
 
+- taxonomy: 原图下载
+  icon: far fa-smile
+  list:
+    - term: lucy
+      links:
+        - title: 春游
+          logo: www.instagram.com.png
+          url: http://rtvosbr5p.bkt.clouddn.com/Instagram.zip
+          description: 2023.05.03           
+
         

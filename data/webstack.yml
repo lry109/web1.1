@@ -3,16 +3,17 @@
 - taxonomy: 墙裂推荐
   icon: far fa-star
   links: 
-    - title: 便宜稳定便捷
+    - title: 稳定便捷魔法
       logo: ji.png
       url: https://91ikun.com
-      description: 🐔V🐔P🐔N
+      description: 扫码关注公众号发送“魔法”关键词触发
+      qrcode: assets/images/logos/ikun.jpg      
 
-    - title: 不限设备数量
+    - title: 免费使用ChatGPT
       logo: ji.png
       url: https://91ikun.com  
-      description: 🐔V🐔P🐔N
-##      qrcode: assets/images/logos/qrcode.jpg
+      description: 扫码关注公众号发送“GPT”关键词触发
+      qrcode: assets/images/logos/ikun.jpg
 
 
 - taxonomy: 软件下载
